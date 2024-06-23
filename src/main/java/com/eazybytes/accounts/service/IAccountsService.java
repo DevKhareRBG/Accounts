@@ -8,8 +8,8 @@ public interface IAccountsService {
      *
      * @param customerDto - CustomerDto Object
      */
-
     void createAccount(CustomerDto customerDto);
+
     /**
      *
      * @param mobileNumber - Input Mobile Number
